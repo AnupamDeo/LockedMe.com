@@ -11,3 +11,11 @@ Sprint - 1 Consists all the necessary Code" to implement the folloowing Layout:-
 	- Add option 1 in main menu (files in asc order)
 	- Support closing the application
 	- Show option 2 (File operations)
+	
+	
+	
+Sprint - 2 Cosists all the business level operations like;-
+       - ADD File
+       - DELETE File
+       - SEARCH File
+       - Close Apllication
