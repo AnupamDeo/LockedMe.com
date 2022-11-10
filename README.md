@@ -14,8 +14,8 @@ Sprint - 1 Consists all the necessary Code" to implement the folloowing Layout:-
 	
 	
 	
-Sprint - 2 Cosists all the business level operations like;-
+Sprint - 2 Cosists all the business level File operations like;-
        - ADD File
        - DELETE File
        - SEARCH File
-       - Close Apllication
+       
